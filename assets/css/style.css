@@ -1,0 +1,32 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.height-100 {
+    height: 100vh;
+}
+
+.height-50 {
+    height: 50vh;
+}
+
+.height-80 {
+    height: 80vh;
+}
+
+.text-red-shadow {
+    color: rgb(235, 79, 79);
+}
+
+.bg-red-shadow {
+    background-color: rgb(235, 79, 79);
+}
+
+.text-ungu {
+    color: rgb(83, 7, 83);
+}
+
+.bg-ungu {
+    background-color: rgb(83, 7, 83);
+}
+
